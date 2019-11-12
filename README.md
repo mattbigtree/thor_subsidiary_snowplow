@@ -1,2 +1,2 @@
 # thor_subsidiary_snowplow
-All Snowplow subsidiary pixels.
+A central location for all Snowplow Pixels for Thor Industries Subsidiaries.
